@@ -1,0 +1,1 @@
+*This project reflects my passion for software development and continuous learning.*
